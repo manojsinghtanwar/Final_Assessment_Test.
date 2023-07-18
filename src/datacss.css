@@ -1,0 +1,26 @@
+.users-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .users-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .user-card {
+    background-color: #c18585;
+    border-radius: 4px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .user-card h2 {
+    margin-top: 0;
+  }
+  
+  .user-card p {
+    margin-bottom: 0;
+  }
+  
